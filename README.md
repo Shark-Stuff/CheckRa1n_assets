@@ -5,7 +5,9 @@ CheckRa1n Jailbreak loader configuration and assets files
 
 -------------------------------------------------------------------------------------------------------------------------
 
-Core Bootstrap Tar: https://assets.checkra.in/loader/unstrap.tar.lzma
+Core BootUnStrap Tar: https://assets.checkra.in/loader/unstrap.tar.lzma 
+Hash: Dnlmvs2gj+WGxh5yHARwR+D8zCO9lHTQdqwqdXx9l8yNfsVeuebVpqfcvbDLlYsw9rdeacGMKnrcaBryEtWa5Q==
+
 
 Default repo: https://repo.bingner.com/
 
